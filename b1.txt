@@ -1,3 +1,9 @@
 b1 branch
+<<<<<<< HEAD
 在main branch 下修改内容
 modify the concent under main branch
+=======
+修改b1 branch 下的内容
+
+Modify the content under b1 branch
+>>>>>>> b1
